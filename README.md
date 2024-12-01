@@ -3,8 +3,8 @@
 # Deep Learning em Raios-X de Tórax
 
 <p>
-  <a href="https://github.com/ProjectIA-Team/CampogramFIFA/blob/main/imagem_summit.png">
-    <img src="imagem_summit.png" alt="umc_summit">
+  <a href="(https://github.com/ProjectIA-Team/Radiography-Covid-DeepL/blob/main/RaioX_torax_covid.jpg)">
+    <img src="RaioX_torax_covid.jpg" alt="raiox_torax">
   </a>
 </p>
 
